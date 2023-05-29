@@ -4,4 +4,3 @@ Follow [NotGaylien](https://github.com/NotGaylien) for progress on the 3D assets
 
 This will be bigger than [JoyrideUniverse!](https://joyrideuniverse.com/)
 
-[fishtank.blend](fishtank.blend) is a game-ready adaption of [NotGaylien's original V2 FishTank model](https://github.com/NotGaylien). All you need to do is trianglulate the mesh and you're good to go.
