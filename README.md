@@ -10,5 +10,5 @@ Audio is by rebore44#3372 in this discord; https://discord.gg/t3rDh2yV
 
 **Check it out here:** https://gayalien.github.io/
 
-Rebore44 dubbed this;
 # Orbs are Real
+As dubbed by Rebore44
